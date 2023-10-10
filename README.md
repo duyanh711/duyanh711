@@ -6,4 +6,4 @@
 - 📫 My facebook: https://facebook.com/duyanh.711
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyanh711&" alt="duyanh711" /></p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=duyanh711)
+[Github stats](https://github-readme-stats.vercel.app/api?username=duyanh711)
