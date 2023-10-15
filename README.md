@@ -5,6 +5,5 @@
 - 🌱 I’m currently learning at Ho Chi Minh University of Science
 - 📫 My facebook: https://facebook.com/duyanh.711
 <div  align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duyanh711)](https://github.com/duyanh711/github-readme-stats)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=duyanh711&" alt="duyanh711" /></p>
 </div>
